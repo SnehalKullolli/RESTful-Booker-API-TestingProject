@@ -237,7 +237,8 @@ Example:
 ```text
 Iteration 1 → John + Doe
 Iteration 2 → Alice + Smith
-```text
+```
+
 ##  Test Documentation
 
 The project includes:
