@@ -245,7 +245,7 @@ The project includes:
 
 ### Execution Results
 
-`API_Execution_Results.xlsx`
+`API_Testcase_Execution_Results.xlsx`
 
 Contains:
 
